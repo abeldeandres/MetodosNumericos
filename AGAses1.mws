@@ -1,0 +1,188 @@
+{VERSION 6 0 "Windows 8" "6.0" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }
+1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal256" -1 206 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1
+ 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1
+ 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnosti
+c" -1 9 1 {CSTYLE "" -1 -1 "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Das
+h Item" -1 16 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 
+0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 207 1 
+{CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "
+Courier" 1 10 255 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2
+ -1 1 }{PSTYLE "Title" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2
+ 1 1 2 2 2 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 1
+" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 
+1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Heading 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 
+0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Headin
+g 3" -1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" 
+-1 -1 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 
+2 -1 1 }{PSTYLE "HyperlinkWarning" -1 208 1 {CSTYLE "" -1 -1 "Courier \+
+New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 
+}{PSTYLE "Left Justified Maple Output" -1 12 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "List Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{CSTYLE "Annotation Tex
+t" -1 200 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Mapl
+e Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2
+D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "H
+elp Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D
+ Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Help Normal" -1 30 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Hel
+p Nonterminal" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 
+}{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "Help Variable" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 
+1 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2
+ 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2
+ 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0
+ 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 10 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12
+ 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Comment" -1 21 "Cour
+ier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference" -1 
+201 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Pla
+ceholder" -1 202 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }
+{CSTYLE "Code" -1 203 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1
+ }{CSTYLE "2D Inert Output" -1 204 "Times" 1 12 144 144 144 1 2 2 2 2 
+1 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 205 "Times" 1 1 0 0 0 1
+ 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 
+2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12
+ 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 
+128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times"
+ 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 
+12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0
+ 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 206 "Times" 1
+ 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 207 "Times" 1 12 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 208 "Times" 1 12 0
+ 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1
+ 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 209 "Times" 1 12 175 
+0 175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Tim
+es" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 210
+ "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 
+"Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 209 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 1 2 2 2 1 0 0 1 }3 1 0 0 0 0
+ 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 209 "" 0 "" {TEXT 211 20 "Abel de Andr\351s G\36
+3mez" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 212 11 "EJERCICIO 1" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "restart; with(linalg): with(plots):
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "for i from 1 to 10 do" 
+}}{PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "if i^2 <30 and i^3 <20 then " }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "print(i)" }}{PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 7 "end if;" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "end do;" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"\"" }}{PARA 11 "" 1 "" {XPPMATH 20
+ "\"\"#" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 212 12 "EJERCICIO 2 " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "restart; with(linalg): with(
+plots):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "suma:=0:" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "for i from 7 by 2 to 131 do" }}
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "suma:= suma+ i;" }}{PARA 0 "> " 0 "
+" {MPLTEXT 1 0 7 "end do:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+12 "print(suma):" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "\"%ZV" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 212 11 "EJERC
+ICIO 3" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 212 11 "Apartado 1 " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "restart; with(linalg): with(
+plots):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "x1:=(-b+sqrt(b^2
+-4*a*c))/(2*a);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&,&I\"bG6\"!\"\"*$
+,&*&I\"aGF&\"\"\"I\"cGF&F,!\"%*$F%\"\"#F,#F,F0F,F,F+F'F1" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "x2:=(-b-sqrt(b^2-4*a*c))/(2*a);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 ",$*&,&I\"bG6\"!\"\"*$,&*&I\"aGF&\"\"\"I
+\"cGF&F,!\"%*$F%\"\"#F,#F,F0F'F,F+F'F1" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 31 "y1:=(2*c)/(-b-sqrt(b^2-4*a*c));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 ",$*&I\"cG6\"\"\"\",&I\"bGF%!\"\"*$,&*&I\"aGF%F&F$F&!\"%*$
+F(\"\"#F&#F&F0F)F)F0" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "y2:
+=(2*c)/(-b+sqrt(b^2-4*a*c));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*&I\"c
+G6\"\"\"\",&I\"bGF%!\"\"*$,&*&I\"aGF%F&F$F&!\"%*$F(\"\"#F&#F&F0F&F)F0"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 17 "if (b > 0) then;\n" }
+{MPLTEXT 1 0 17 " z1:= evalf(y1);\n" }{MPLTEXT 1 0 17 " z2:= evalf(x2)
+;\n" }{MPLTEXT 1 0 20 " elif (b = 0.)then;\n" }{MPLTEXT 1 0 17 " z:= s
+qrt(-c/a);\n" }{MPLTEXT 1 0 10 " evalf(z)\n" }{MPLTEXT 1 0 5 "else\n" 
+}{MPLTEXT 1 0 17 " z3:= evalf(x1);\n" }{MPLTEXT 1 0 17 " z4:= evalf(y2
+);\n" }{MPLTEXT 1 0 8 "end if;\n" }}{PARA 207 "" 1 "" {TEXT 213 0 "" }
+{HYPERLNK 213 "Error, cannot determine if this expression is true or f
+alse: 0 < b" 4 "http://www.maplesoft.com/support/help/errors/view.aspx
+?path=Error,%20cannot%20determine%20if%20this%20expression%20is%20true
+%20or%20false%3A%200%20%3C%20b" "" }{TEXT 213 0 "" }}}{EXCHG {PARA 0 "
+" 0 "" {TEXT 212 299 "Sale error debido a que es un ejercicio sin n\37
+2meros, y por tanto el programa no puede saber si b es menor, igual o \+
+mayor que 0. Lo he probado introduciendo distintos valores despues de \+
+la l\355nea de restart y antes de la l\355nea donde va x1 y el program
+a para calcular las ra\355ces funciona correctamente." }}}{EXCHG 
+{PARA 0 "" 0 "" {TEXT 212 10 "Apartado 2" }}{PARA 0 "" 0 "" {TEXT 212 
+5 "[(a)]" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "restart; with(l
+inalg): with(plots):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "a:=
+1.: b:=12345678987.: c:=1.:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+31 "x1:=(-b+sqrt(b^2-4*a*c))/(2*a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$
+\"\"!F#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "x2:=(-b-sqrt(b^2
+-4*a*c))/(2*a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$!+**ycM7\"\"\"" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "y1:=(2*c)/(-b-sqrt(b^2-4*a*c
+));" }}{PARA 11 "" 1 "" {XPPMATH 20 "$!+9+++\")!#?" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 31 "y2:=(2*c)/(-b+sqrt(b^2-4*a*c));" }}{PARA 11
+ "" 1 "" {XPPMATH 20 "$\"\"\"I)infinityG%*protectedG" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 17 "if (b > 0) then;\n" }{MPLTEXT 1 0 17 " z1
+:= evalf(y1);\n" }{MPLTEXT 1 0 17 " z2:= evalf(x2);\n" }{MPLTEXT 1 0 
+19 "elif (b = 0.)then;\n" }{MPLTEXT 1 0 17 " z:= sqrt(-c/a);\n" }
+{MPLTEXT 1 0 10 " evalf(z)\n" }{MPLTEXT 1 0 5 "else\n" }{MPLTEXT 1 0 
+17 " z3:= evalf(x1);\n" }{MPLTEXT 1 0 17 " z4:= evalf(y2);\n" }
+{MPLTEXT 1 0 8 "end if;\n" }}{PARA 11 "" 1 "" {XPPMATH 20 "$!+9+++\")!
+#?" }}{PARA 11 "" 1 "" {XPPMATH 20 "$!+**ycM7\"\"\"" }}}{EXCHG {PARA 0
+ "" 0 "" {TEXT 212 46 "Las soluciones del apartado [(a)] son z1 y z2."
+ }}}{EXCHG {PARA 0 "" 0 "" {TEXT 212 5 "[(b)]" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 35 "restart; with(linalg): with(plots):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "a:=1.: b:=-12345678987.: c:=1.:" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "x1:=(-b+sqrt(b^2-4*a*c))/(2
+*a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+**ycM7\"\"\"" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "x2:=(-b-sqrt(b^2-4*a*c))/(2*a);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"\"!F#" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 31 "y1:=(2*c)/(-b-sqrt(b^2-4*a*c));" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "$\"\"\"I)infinityG%*protectedG" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 31 "y2:=(2*c)/(-b+sqrt(b^2-4*a*c));" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "$\"+9+++\")!#?" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 17 "if (b > 0) then;\n" }{MPLTEXT 1 0 17 " z1:= evalf(y1);\n" }
+{MPLTEXT 1 0 17 " z2:= evalf(x2);\n" }{MPLTEXT 1 0 19 "elif (b = 0.)th
+en;\n" }{MPLTEXT 1 0 17 " z:= sqrt(-c/a);\n" }{MPLTEXT 1 0 10 " evalf(
+z)\n" }{MPLTEXT 1 0 5 "else\n" }{MPLTEXT 1 0 17 " z3:= evalf(x1);\n" }
+{MPLTEXT 1 0 17 " z4:= evalf(y2);\n" }{MPLTEXT 1 0 8 "end if;\n" }
+{TEXT 212 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "$\"+**ycM7\"\"\"" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "$\"+9+++\")!#?" }}}{EXCHG {PARA 0 "" 0 "
+" {TEXT 212 45 "Las soluciones del apartado [(b)] son z3y z4." }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
